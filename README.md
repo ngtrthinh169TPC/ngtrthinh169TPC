@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ngtrthinh169TPC
 - 👀 I’m interested in Websites' Aesthetics
-- 🌱 I’m currently learning Reactjs, Nextjs and some kind of UI - UX designing
-- 💞️ I’m looking to collaborate on making sites or components which needed some nice interface
+- 🌱 I’m currently learning Reactjs, Remix.run, UI - UX designing and advanced tools for web developing
+- 💞️ I’m looking to improve Internet through making good UI - UXs
 - 📫 Reach me with my email ng.trfffff.thinh@gmail.com without all the 'f'
 
 <!---
